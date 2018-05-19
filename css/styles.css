@@ -32,6 +32,11 @@ body {
     }
 }
 
+..pinned-repo-item {
+
+box-sizing: border-box;
+}
+
 .repo {
     position: relative;
     display: block;
